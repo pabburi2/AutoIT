@@ -25,7 +25,9 @@ Local $ChkSec      = 5      ; 체크하는 기준이 되는초 기본 5초
 
 #Region ### START Koda GUI section ### Form=
 ;~ GUICreate ( "title" [, width [, height [, left = -1 [, top = -1 [, style = -1 [, exStyle = -1 [, parent = 0]]]]]]] )
-$Form1          = GUICreate("Window heandle list", 1220, 770, 225, 7)
+Local $winWidth	= 1220
+Local $startX	= ( @DesktopWidth - $winWidth ) / 2
+$Form1          = GUICreate("Window heandle list", $winWidth, 770, $startX, 7)
 
 ;~ GUISetFont ( size [, weight [, attribute [, fontname [, winhandle [, quality]]]]] )
 GUISetFont(9, $FW_NORMAL, $GUI_FONTNORMAL, "굴림체")

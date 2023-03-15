@@ -13,7 +13,7 @@ https://www.pabburi.co.kr/content/autoit/autoit-%EC%84%A4%EC%B9%98-%EB%B0%8F-%EC
 프로그램을 만들기 위해서 사용되는 각종 함수의 단일 테스트 결과들 입니다.
 
 ## 도서소개
-  아래 도서는 이곳과 무관합니다. AutoIT은 국내에 책도 없었는데 도서가 발간된것이 반가워 소개합니다.<br>
+  아래 도서는 이곳과 무관합니다. AutoIT은 국내에 책도 없었는데 도서가 발간된 것이 반가워 소개합니다.<br>
    - AutoIt을 활용한 업무 자동화 - YES24 <br>
    http://www.yes24.com/Product/Goods/102087565
 
