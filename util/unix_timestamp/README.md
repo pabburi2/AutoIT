@@ -1,7 +1,7 @@
 # 유닉스 타임스탬프
 
 - 실행결과
-```
+```autoit
 ; 현재 시간의 unix timestamp
 Local $TimeSec	= _unix_timestamp()
 ConsoleWrite('unix time: ' & $TimeSec & @CRLF)
