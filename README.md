@@ -1,7 +1,7 @@
 # AutoIT(오토잇)
 윈도우 매크로 프로그램으로 단순 매크로보다는 향상된 기능을 수행할 수 있는 베이직 계열의 프로그램언어 입니다.
-- 사용방법 및 설치 프로그램<br>
-https://www.pabburi.co.kr/content/autoit/autoit-%EC%84%A4%EC%B9%98-%EB%B0%8F-%EC%BB%B4%ED%8C%8C%EC%9D%BC-%EB%B0%A9%EB%B2%95-%EA%B0%84%EB%8B%A8%ED%95%9C%EC%84%A4%EB%AA%85/
+- [사용방법 및 설치 프로그램](https://www.pabburi.co.kr/content/autoit/autoit-%EC%84%A4%EC%B9%98-%EB%B0%8F-%EC%BB%B4%ED%8C%8C%EC%9D%BC-%EB%B0%A9%EB%B2%95-%EA%B0%84%EB%8B%A8%ED%95%9C%EC%84%A4%EB%AA%85/)<br>
+
 
 ## **중요사항(악성코드 오탐 문제)**
 오토잇(AutoIT)은 자동화 처리를 위한 프로그램으로 악성코드와 유사한 부분이 있어 윈도우에서 자동으로 차단이 많이 발생 하는데 이 부분은 오탐의 문제로서 해제를 해주시면 됩니다. 그렇기 때문에 이곳에선 항상 소스를 배포함을 인지해 주시면 됩니다.
